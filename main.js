@@ -239,3 +239,4 @@ function handleKeyNavigation(e) {
   document.onkeydown = null;
 }
 
+renderMenu();
