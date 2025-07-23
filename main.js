@@ -238,5 +238,5 @@ function handleKeyNavigation(e) {
   `;
   document.onkeydown = null;
 }
-
+console.log("JS loaded");
 renderMenu();
